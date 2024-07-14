@@ -72,3 +72,11 @@ main {
     width: 300px;
     border-radius: 10px;
 }
+.details {
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
