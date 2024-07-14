@@ -84,3 +84,7 @@ main {
     font-size: 1rem;
     color: #333;
 }
+.icons {
+    display: flex;
+    gap: 10px;
+}
