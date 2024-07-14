@@ -68,3 +68,7 @@ main {
 .intro-text .highlight {
     color: #ff4081;
 }
+.intro-image img {
+    width: 300px;
+    border-radius: 10px;
+}
